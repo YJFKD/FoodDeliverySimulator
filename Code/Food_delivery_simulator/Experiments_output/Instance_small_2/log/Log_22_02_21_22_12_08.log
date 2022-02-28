@@ -1,0 +1,402 @@
+2022-02-21 22:12:08,933 [main.py         | 38] INFO: Start to run /Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/Benchmark/Instance_small_2: instance_24
+2022-02-21 22:12:08,933 [simulator_api.py | 43] INFO: Start time of the simulator: 2022-02-21 09:00:00, time interval:  600.00
+2022-02-21 22:12:09,273 [input_utils.py  | 35] INFO: Get 2165 locations
+2022-02-21 22:12:09,296 [input_utils.py  | 39] INFO: Get 85 drivers
+2022-02-21 22:12:09,612 [input_utils.py  | 43] INFO: Get 900 orders
+2022-02-21 22:12:09,612 [simulator_api.py | 75] INFO: Initial position of D_1 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,613 [simulator_api.py | 75] INFO: Initial position of D_2 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,614 [simulator_api.py | 75] INFO: Initial position of D_3 is Old Airport Road Food Centre
+2022-02-21 22:12:09,615 [simulator_api.py | 75] INFO: Initial position of D_4 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,615 [simulator_api.py | 75] INFO: Initial position of D_5 is Chomp Chomp
+2022-02-21 22:12:09,615 [simulator_api.py | 75] INFO: Initial position of D_6 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,616 [simulator_api.py | 75] INFO: Initial position of D_7 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,616 [simulator_api.py | 75] INFO: Initial position of D_8 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,616 [simulator_api.py | 75] INFO: Initial position of D_9 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,616 [simulator_api.py | 75] INFO: Initial position of D_10 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,618 [simulator_api.py | 75] INFO: Initial position of D_11 is Chomp Chomp
+2022-02-21 22:12:09,618 [simulator_api.py | 75] INFO: Initial position of D_12 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,618 [simulator_api.py | 75] INFO: Initial position of D_13 is Chomp Chomp
+2022-02-21 22:12:09,619 [simulator_api.py | 75] INFO: Initial position of D_14 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,620 [simulator_api.py | 75] INFO: Initial position of D_15 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,621 [simulator_api.py | 75] INFO: Initial position of D_16 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,622 [simulator_api.py | 75] INFO: Initial position of D_17 is Old Airport Road Food Centre
+2022-02-21 22:12:09,622 [simulator_api.py | 75] INFO: Initial position of D_18 is Chomp Chomp
+2022-02-21 22:12:09,623 [simulator_api.py | 75] INFO: Initial position of D_19 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,623 [simulator_api.py | 75] INFO: Initial position of D_20 is Chomp Chomp
+2022-02-21 22:12:09,623 [simulator_api.py | 75] INFO: Initial position of D_21 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,623 [simulator_api.py | 75] INFO: Initial position of D_22 is Chomp Chomp
+2022-02-21 22:12:09,624 [simulator_api.py | 75] INFO: Initial position of D_23 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,625 [simulator_api.py | 75] INFO: Initial position of D_24 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,625 [simulator_api.py | 75] INFO: Initial position of D_25 is Old Airport Road Food Centre
+2022-02-21 22:12:09,626 [simulator_api.py | 75] INFO: Initial position of D_26 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,626 [simulator_api.py | 75] INFO: Initial position of D_27 is Old Airport Road Food Centre
+2022-02-21 22:12:09,627 [simulator_api.py | 75] INFO: Initial position of D_28 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,628 [simulator_api.py | 75] INFO: Initial position of D_29 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,629 [simulator_api.py | 75] INFO: Initial position of D_30 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,629 [simulator_api.py | 75] INFO: Initial position of D_31 is Chomp Chomp
+2022-02-21 22:12:09,630 [simulator_api.py | 75] INFO: Initial position of D_32 is Old Airport Road Food Centre
+2022-02-21 22:12:09,631 [simulator_api.py | 75] INFO: Initial position of D_33 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,631 [simulator_api.py | 75] INFO: Initial position of D_34 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,632 [simulator_api.py | 75] INFO: Initial position of D_35 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,632 [simulator_api.py | 75] INFO: Initial position of D_36 is Chomp Chomp
+2022-02-21 22:12:09,634 [simulator_api.py | 75] INFO: Initial position of D_37 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,634 [simulator_api.py | 75] INFO: Initial position of D_38 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,635 [simulator_api.py | 75] INFO: Initial position of D_39 is Chomp Chomp
+2022-02-21 22:12:09,635 [simulator_api.py | 75] INFO: Initial position of D_40 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,635 [simulator_api.py | 75] INFO: Initial position of D_41 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,635 [simulator_api.py | 75] INFO: Initial position of D_42 is Chomp Chomp
+2022-02-21 22:12:09,636 [simulator_api.py | 75] INFO: Initial position of D_43 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,637 [simulator_api.py | 75] INFO: Initial position of D_44 is Old Airport Road Food Centre
+2022-02-21 22:12:09,638 [simulator_api.py | 75] INFO: Initial position of D_45 is Chomp Chomp
+2022-02-21 22:12:09,639 [simulator_api.py | 75] INFO: Initial position of D_46 is Old Airport Road Food Centre
+2022-02-21 22:12:09,639 [simulator_api.py | 75] INFO: Initial position of D_47 is Old Airport Road Food Centre
+2022-02-21 22:12:09,639 [simulator_api.py | 75] INFO: Initial position of D_48 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,639 [simulator_api.py | 75] INFO: Initial position of D_49 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,639 [simulator_api.py | 75] INFO: Initial position of D_50 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,641 [simulator_api.py | 75] INFO: Initial position of D_51 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,642 [simulator_api.py | 75] INFO: Initial position of D_52 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,642 [simulator_api.py | 75] INFO: Initial position of D_53 is Old Airport Road Food Centre
+2022-02-21 22:12:09,643 [simulator_api.py | 75] INFO: Initial position of D_54 is Chomp Chomp
+2022-02-21 22:12:09,644 [simulator_api.py | 75] INFO: Initial position of D_55 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,645 [simulator_api.py | 75] INFO: Initial position of D_56 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,645 [simulator_api.py | 75] INFO: Initial position of D_57 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,646 [simulator_api.py | 75] INFO: Initial position of D_58 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,646 [simulator_api.py | 75] INFO: Initial position of D_59 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,646 [simulator_api.py | 75] INFO: Initial position of D_60 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,646 [simulator_api.py | 75] INFO: Initial position of D_61 is Old Airport Road Food Centre
+2022-02-21 22:12:09,647 [simulator_api.py | 75] INFO: Initial position of D_62 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,647 [simulator_api.py | 75] INFO: Initial position of D_63 is Chomp Chomp
+2022-02-21 22:12:09,648 [simulator_api.py | 75] INFO: Initial position of D_64 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,649 [simulator_api.py | 75] INFO: Initial position of D_65 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,649 [simulator_api.py | 75] INFO: Initial position of D_66 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,650 [simulator_api.py | 75] INFO: Initial position of D_67 is Chomp Chomp
+2022-02-21 22:12:09,651 [simulator_api.py | 75] INFO: Initial position of D_68 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,652 [simulator_api.py | 75] INFO: Initial position of D_69 is Old Airport Road Food Centre
+2022-02-21 22:12:09,653 [simulator_api.py | 75] INFO: Initial position of D_70 is Old Airport Road Food Centre
+2022-02-21 22:12:09,653 [simulator_api.py | 75] INFO: Initial position of D_71 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,654 [simulator_api.py | 75] INFO: Initial position of D_72 is Chomp Chomp
+2022-02-21 22:12:09,655 [simulator_api.py | 75] INFO: Initial position of D_73 is Lorong 8 Toa Payoh Hawker Centre
+2022-02-21 22:12:09,656 [simulator_api.py | 75] INFO: Initial position of D_74 is Old Airport Road Food Centre
+2022-02-21 22:12:09,657 [simulator_api.py | 75] INFO: Initial position of D_75 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,657 [simulator_api.py | 75] INFO: Initial position of D_76 is Chomp Chomp
+2022-02-21 22:12:09,659 [simulator_api.py | 75] INFO: Initial position of D_77 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,659 [simulator_api.py | 75] INFO: Initial position of D_78 is Breadtalk Ihq, 30 Tai Seng St, Singapore 534013, Singapore
+2022-02-21 22:12:09,660 [simulator_api.py | 75] INFO: Initial position of D_79 is Old Airport Road Food Centre
+2022-02-21 22:12:09,661 [simulator_api.py | 75] INFO: Initial position of D_80 is Chomp Chomp
+2022-02-21 22:12:09,663 [simulator_api.py | 75] INFO: Initial position of D_81 is Bedok Interchange Hawker Centre
+2022-02-21 22:12:09,664 [simulator_api.py | 75] INFO: Initial position of D_82 is Chomp Chomp
+2022-02-21 22:12:09,665 [simulator_api.py | 75] INFO: Initial position of D_83 is Kovan Food Centre (209 Hougang Street 21)
+2022-02-21 22:12:09,666 [simulator_api.py | 75] INFO: Initial position of D_84 is Chomp Chomp
+2022-02-21 22:12:09,666 [simulator_api.py | 75] INFO: Initial position of D_85 is Chomp Chomp
+2022-02-21 22:12:09,686 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:09,686 [simulator_env.py | 91] INFO: cur time: 2022-02-21 09:10:00, pre time: 2022-02-21 09:00:00
+2022-02-21 22:12:09,688 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 09:10:00
+2022-02-21 22:12:09,692 [simulator_env.py | 175] INFO: Get 28 unallocated orders, 0 ongoing orders, 0 completed orders.
+2022-02-21 22:12:10,987 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:10,988 [simulator_env.py | 278] INFO: 2022-02-21 09:10:00, Order 09000500000: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:10,988 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:10,989 [simulator_env.py | 91] INFO: cur time: 2022-02-21 09:20:00, pre time: 2022-02-21 09:10:00
+2022-02-21 22:12:10,989 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 09:20:00
+2022-02-21 22:12:10,998 [simulator_env.py | 175] INFO: Get 23 unallocated orders, 18 ongoing orders, 10 completed orders.
+2022-02-21 22:12:12,501 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:12,504 [simulator_env.py | 278] INFO: 2022-02-21 09:20:00, Order 09100700028: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:12,506 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:12,506 [simulator_env.py | 91] INFO: cur time: 2022-02-21 09:30:00, pre time: 2022-02-21 09:20:00
+2022-02-21 22:12:12,506 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 09:30:00
+2022-02-21 22:12:12,515 [simulator_env.py | 175] INFO: Get 30 unallocated orders, 14 ongoing orders, 37 completed orders.
+2022-02-21 22:12:13,994 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:13,996 [simulator_env.py | 278] INFO: 2022-02-21 09:30:00, Order 09202400051: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:13,997 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:13,997 [simulator_env.py | 91] INFO: cur time: 2022-02-21 09:40:00, pre time: 2022-02-21 09:30:00
+2022-02-21 22:12:13,997 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 09:40:00
+2022-02-21 22:12:14,016 [simulator_env.py | 175] INFO: Get 28 unallocated orders, 18 ongoing orders, 63 completed orders.
+2022-02-21 22:12:16,293 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:16,296 [simulator_env.py | 278] INFO: 2022-02-21 09:40:00, Order 09302400081: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:16,297 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:16,297 [simulator_env.py | 91] INFO: cur time: 2022-02-21 09:50:00, pre time: 2022-02-21 09:40:00
+2022-02-21 22:12:16,298 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 09:50:00
+2022-02-21 22:12:16,309 [simulator_env.py | 175] INFO: Get 23 unallocated orders, 22 ongoing orders, 87 completed orders.
+2022-02-21 22:12:17,651 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:17,653 [simulator_env.py | 278] INFO: 2022-02-21 09:50:00, Order 09400400109: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:17,655 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:17,655 [simulator_env.py | 91] INFO: cur time: 2022-02-21 10:00:00, pre time: 2022-02-21 09:50:00
+2022-02-21 22:12:17,655 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 10:00:00
+2022-02-21 22:12:17,669 [simulator_env.py | 175] INFO: Get 38 unallocated orders, 16 ongoing orders, 116 completed orders.
+2022-02-21 22:12:20,389 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:20,391 [simulator_env.py | 278] INFO: 2022-02-21 10:00:00, Order 09502700132: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:20,392 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:20,392 [simulator_env.py | 91] INFO: cur time: 2022-02-21 10:10:00, pre time: 2022-02-21 10:00:00
+2022-02-21 22:12:20,393 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 10:10:00
+2022-02-21 22:12:20,413 [simulator_env.py | 175] INFO: Get 37 unallocated orders, 32 ongoing orders, 138 completed orders.
+2022-02-21 22:12:22,530 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:22,534 [simulator_env.py | 278] INFO: 2022-02-21 10:10:00, Order 10001100170: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:22,535 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:22,537 [simulator_env.py | 91] INFO: cur time: 2022-02-21 10:20:00, pre time: 2022-02-21 10:10:00
+2022-02-21 22:12:22,537 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 10:20:00
+2022-02-21 22:12:22,551 [simulator_env.py | 175] INFO: Get 34 unallocated orders, 29 ongoing orders, 178 completed orders.
+2022-02-21 22:12:24,345 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:24,348 [simulator_env.py | 278] INFO: 2022-02-21 10:20:00, Order 10101300207: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:24,349 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:24,349 [simulator_env.py | 91] INFO: cur time: 2022-02-21 10:30:00, pre time: 2022-02-21 10:20:00
+2022-02-21 22:12:24,350 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 10:30:00
+2022-02-21 22:12:24,369 [simulator_env.py | 175] INFO: Get 44 unallocated orders, 29 ongoing orders, 212 completed orders.
+2022-02-21 22:12:25,806 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:25,812 [simulator_env.py | 278] INFO: 2022-02-21 10:30:00, Order 10200400241: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:25,814 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:25,815 [simulator_env.py | 91] INFO: cur time: 2022-02-21 10:40:00, pre time: 2022-02-21 10:30:00
+2022-02-21 22:12:25,815 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 10:40:00
+2022-02-21 22:12:25,841 [simulator_env.py | 175] INFO: Get 48 unallocated orders, 38 ongoing orders, 246 completed orders.
+2022-02-21 22:12:27,196 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:27,200 [simulator_env.py | 278] INFO: 2022-02-21 10:40:00, Order 10292700284: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:27,202 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:27,202 [simulator_env.py | 91] INFO: cur time: 2022-02-21 10:50:00, pre time: 2022-02-21 10:40:00
+2022-02-21 22:12:27,202 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 10:50:00
+2022-02-21 22:12:27,221 [simulator_env.py | 175] INFO: Get 37 unallocated orders, 38 ongoing orders, 291 completed orders.
+2022-02-21 22:12:28,565 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:28,570 [simulator_env.py | 278] INFO: 2022-02-21 10:50:00, Order 10341700310: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:28,573 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:28,573 [simulator_env.py | 91] INFO: cur time: 2022-02-21 11:00:00, pre time: 2022-02-21 10:50:00
+2022-02-21 22:12:28,574 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 11:00:00
+2022-02-21 22:12:28,596 [simulator_env.py | 175] INFO: Get 37 unallocated orders, 24 ongoing orders, 341 completed orders.
+2022-02-21 22:12:30,314 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:30,317 [simulator_env.py | 278] INFO: 2022-02-21 11:00:00, Order 10404000335: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:30,318 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:30,318 [simulator_env.py | 91] INFO: cur time: 2022-02-21 11:10:00, pre time: 2022-02-21 11:00:00
+2022-02-21 22:12:30,318 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 11:10:00
+2022-02-21 22:12:30,333 [simulator_env.py | 175] INFO: Get 44 unallocated orders, 29 ongoing orders, 373 completed orders.
+2022-02-21 22:12:31,789 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:31,794 [simulator_env.py | 278] INFO: 2022-02-21 11:10:00, Order 11002100402: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:31,795 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:31,795 [simulator_env.py | 91] INFO: cur time: 2022-02-21 11:20:00, pre time: 2022-02-21 11:10:00
+2022-02-21 22:12:31,795 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 11:20:00
+2022-02-21 22:12:31,813 [simulator_env.py | 175] INFO: Get 40 unallocated orders, 31 ongoing orders, 415 completed orders.
+2022-02-21 22:12:33,103 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:33,108 [simulator_env.py | 278] INFO: 2022-02-21 11:20:00, Order 11102000446: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:33,110 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:33,110 [simulator_env.py | 91] INFO: cur time: 2022-02-21 11:30:00, pre time: 2022-02-21 11:20:00
+2022-02-21 22:12:33,111 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 11:30:00
+2022-02-21 22:12:33,130 [simulator_env.py | 175] INFO: Get 37 unallocated orders, 25 ongoing orders, 460 completed orders.
+2022-02-21 22:12:34,482 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:34,486 [simulator_env.py | 278] INFO: 2022-02-21 11:30:00, Order 11180300478: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:34,487 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:34,487 [simulator_env.py | 91] INFO: cur time: 2022-02-21 11:40:00, pre time: 2022-02-21 11:30:00
+2022-02-21 22:12:34,487 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 11:40:00
+2022-02-21 22:12:34,503 [simulator_env.py | 175] INFO: Get 34 unallocated orders, 29 ongoing orders, 493 completed orders.
+2022-02-21 22:12:35,891 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:35,895 [simulator_env.py | 278] INFO: 2022-02-21 11:40:00, Order 11302000522: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:35,897 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:35,897 [simulator_env.py | 91] INFO: cur time: 2022-02-21 11:50:00, pre time: 2022-02-21 11:40:00
+2022-02-21 22:12:35,897 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 11:50:00
+2022-02-21 22:12:35,916 [simulator_env.py | 175] INFO: Get 30 unallocated orders, 23 ongoing orders, 533 completed orders.
+2022-02-21 22:12:37,190 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:37,193 [simulator_env.py | 278] INFO: 2022-02-21 11:50:00, Order 11402900556: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:37,194 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:37,194 [simulator_env.py | 91] INFO: cur time: 2022-02-21 12:00:00, pre time: 2022-02-21 11:50:00
+2022-02-21 22:12:37,194 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 12:00:00
+2022-02-21 22:12:37,209 [simulator_env.py | 175] INFO: Get 32 unallocated orders, 22 ongoing orders, 564 completed orders.
+2022-02-21 22:12:38,640 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:38,645 [simulator_env.py | 278] INFO: 2022-02-21 12:00:00, Order 11504800586: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:38,646 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:38,647 [simulator_env.py | 91] INFO: cur time: 2022-02-21 12:10:00, pre time: 2022-02-21 12:00:00
+2022-02-21 22:12:38,647 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 12:10:00
+2022-02-21 22:12:38,662 [simulator_env.py | 175] INFO: Get 19 unallocated orders, 24 ongoing orders, 594 completed orders.
+2022-02-21 22:12:40,262 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:40,266 [simulator_env.py | 278] INFO: 2022-02-21 12:10:00, Order 12000200618: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:40,267 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:40,267 [simulator_env.py | 91] INFO: cur time: 2022-02-21 12:20:00, pre time: 2022-02-21 12:10:00
+2022-02-21 22:12:40,267 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 12:20:00
+2022-02-21 22:12:40,280 [simulator_env.py | 175] INFO: Get 19 unallocated orders, 15 ongoing orders, 622 completed orders.
+2022-02-21 22:12:41,870 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:41,873 [simulator_env.py | 278] INFO: 2022-02-21 12:20:00, Order 12103700637: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:41,874 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:41,875 [simulator_env.py | 91] INFO: cur time: 2022-02-21 12:30:00, pre time: 2022-02-21 12:20:00
+2022-02-21 22:12:41,875 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 12:30:00
+2022-02-21 22:12:41,887 [simulator_env.py | 175] INFO: Get 25 unallocated orders, 15 ongoing orders, 641 completed orders.
+2022-02-21 22:12:43,346 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:43,350 [simulator_env.py | 278] INFO: 2022-02-21 12:30:00, Order 12200700656: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:43,351 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:43,351 [simulator_env.py | 91] INFO: cur time: 2022-02-21 12:40:00, pre time: 2022-02-21 12:30:00
+2022-02-21 22:12:43,351 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 12:40:00
+2022-02-21 22:12:43,364 [simulator_env.py | 175] INFO: Get 18 unallocated orders, 22 ongoing orders, 659 completed orders.
+2022-02-21 22:12:45,787 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:45,791 [simulator_env.py | 278] INFO: 2022-02-21 12:40:00, Order 12300900681: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:45,793 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:45,794 [simulator_env.py | 91] INFO: cur time: 2022-02-21 12:50:00, pre time: 2022-02-21 12:40:00
+2022-02-21 22:12:45,794 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 12:50:00
+2022-02-21 22:12:45,804 [simulator_env.py | 175] INFO: Get 18 unallocated orders, 12 ongoing orders, 687 completed orders.
+2022-02-21 22:12:47,617 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:47,619 [simulator_env.py | 278] INFO: 2022-02-21 12:50:00, Order 12403600699: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:47,620 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:47,621 [simulator_env.py | 91] INFO: cur time: 2022-02-21 13:00:00, pre time: 2022-02-21 12:50:00
+2022-02-21 22:12:47,621 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 13:00:00
+2022-02-21 22:12:47,630 [simulator_env.py | 175] INFO: Get 14 unallocated orders, 14 ongoing orders, 703 completed orders.
+2022-02-21 22:12:49,139 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:49,143 [simulator_env.py | 278] INFO: 2022-02-21 13:00:00, Order 12500200717: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:49,144 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:49,144 [simulator_env.py | 91] INFO: cur time: 2022-02-21 13:10:00, pre time: 2022-02-21 13:00:00
+2022-02-21 22:12:49,145 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 13:10:00
+2022-02-21 22:12:49,153 [simulator_env.py | 175] INFO: Get 19 unallocated orders, 8 ongoing orders, 723 completed orders.
+2022-02-21 22:12:50,495 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:50,497 [simulator_env.py | 278] INFO: 2022-02-21 13:10:00, Order 13001200731: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:50,497 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:50,498 [simulator_env.py | 91] INFO: cur time: 2022-02-21 13:20:00, pre time: 2022-02-21 13:10:00
+2022-02-21 22:12:50,498 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 13:20:00
+2022-02-21 22:12:50,510 [simulator_env.py | 175] INFO: Get 14 unallocated orders, 14 ongoing orders, 736 completed orders.
+2022-02-21 22:12:51,753 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:51,755 [simulator_env.py | 278] INFO: 2022-02-21 13:20:00, Order 13110700750: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:51,756 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:51,756 [simulator_env.py | 91] INFO: cur time: 2022-02-21 13:30:00, pre time: 2022-02-21 13:20:00
+2022-02-21 22:12:51,756 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 13:30:00
+2022-02-21 22:12:51,764 [simulator_env.py | 175] INFO: Get 17 unallocated orders, 11 ongoing orders, 753 completed orders.
+2022-02-21 22:12:53,202 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:53,204 [simulator_env.py | 278] INFO: 2022-02-21 13:30:00, Order 13201200764: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:53,205 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:53,205 [simulator_env.py | 91] INFO: cur time: 2022-02-21 13:40:00, pre time: 2022-02-21 13:30:00
+2022-02-21 22:12:53,205 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 13:40:00
+2022-02-21 22:12:53,215 [simulator_env.py | 175] INFO: Get 10 unallocated orders, 12 ongoing orders, 769 completed orders.
+2022-02-21 22:12:54,715 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:54,717 [simulator_env.py | 278] INFO: 2022-02-21 13:40:00, Order 13313100781: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:54,718 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:54,718 [simulator_env.py | 91] INFO: cur time: 2022-02-21 13:50:00, pre time: 2022-02-21 13:40:00
+2022-02-21 22:12:54,718 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 13:50:00
+2022-02-21 22:12:54,725 [simulator_env.py | 175] INFO: Get 12 unallocated orders, 8 ongoing orders, 783 completed orders.
+2022-02-21 22:12:56,019 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:56,021 [simulator_env.py | 278] INFO: 2022-02-21 13:50:00, Order 13410900791: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:56,022 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:56,022 [simulator_env.py | 91] INFO: cur time: 2022-02-21 14:00:00, pre time: 2022-02-21 13:50:00
+2022-02-21 22:12:56,022 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 14:00:00
+2022-02-21 22:12:56,031 [simulator_env.py | 175] INFO: Get 11 unallocated orders, 9 ongoing orders, 794 completed orders.
+2022-02-21 22:12:57,471 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:57,474 [simulator_env.py | 278] INFO: 2022-02-21 14:00:00, Order 13501600803: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:57,475 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:57,475 [simulator_env.py | 91] INFO: cur time: 2022-02-21 14:10:00, pre time: 2022-02-21 14:00:00
+2022-02-21 22:12:57,475 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 14:10:00
+2022-02-21 22:12:57,481 [simulator_env.py | 175] INFO: Get 15 unallocated orders, 9 ongoing orders, 805 completed orders.
+2022-02-21 22:12:58,931 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:12:58,934 [simulator_env.py | 278] INFO: 2022-02-21 14:10:00, Order 14001900814: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:12:58,935 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:12:58,935 [simulator_env.py | 91] INFO: cur time: 2022-02-21 14:20:00, pre time: 2022-02-21 14:10:00
+2022-02-21 22:12:58,935 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 14:20:00
+2022-02-21 22:12:58,947 [simulator_env.py | 175] INFO: Get 12 unallocated orders, 10 ongoing orders, 819 completed orders.
+2022-02-21 22:13:00,347 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:13:00,349 [simulator_env.py | 278] INFO: 2022-02-21 14:20:00, Order 14100900829: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:13:00,350 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:13:00,350 [simulator_env.py | 91] INFO: cur time: 2022-02-21 14:30:00, pre time: 2022-02-21 14:20:00
+2022-02-21 22:13:00,350 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 14:30:00
+2022-02-21 22:13:00,358 [simulator_env.py | 175] INFO: Get 17 unallocated orders, 10 ongoing orders, 831 completed orders.
+2022-02-21 22:13:01,761 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:13:01,763 [simulator_env.py | 278] INFO: 2022-02-21 14:30:00, Order 14203900841: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:13:01,764 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:13:01,764 [simulator_env.py | 91] INFO: cur time: 2022-02-21 14:40:00, pre time: 2022-02-21 14:30:00
+2022-02-21 22:13:01,764 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 14:40:00
+2022-02-21 22:13:01,775 [simulator_env.py | 175] INFO: Get 22 unallocated orders, 15 ongoing orders, 843 completed orders.
+2022-02-21 22:13:03,162 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:13:03,164 [simulator_env.py | 278] INFO: 2022-02-21 14:40:00, Order 14303400858: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:13:03,165 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:13:03,165 [simulator_env.py | 91] INFO: cur time: 2022-02-21 14:50:00, pre time: 2022-02-21 14:40:00
+2022-02-21 22:13:03,165 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 14:50:00
+2022-02-21 22:13:03,174 [simulator_env.py | 175] INFO: Get 8 unallocated orders, 21 ongoing orders, 859 completed orders.
+2022-02-21 22:13:04,666 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:13:04,669 [simulator_env.py | 278] INFO: 2022-02-21 14:50:00, Order 14410300880: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:13:04,670 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:13:04,670 [simulator_env.py | 91] INFO: cur time: 2022-02-21 15:00:00, pre time: 2022-02-21 14:50:00
+2022-02-21 22:13:04,670 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 15:00:00
+2022-02-21 22:13:04,678 [simulator_env.py | 175] INFO: Get 12 unallocated orders, 8 ongoing orders, 880 completed orders.
+2022-02-21 22:13:06,068 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:13:06,070 [simulator_env.py | 278] INFO: 2022-02-21 15:00:00, Order 14512000888: state = 1 < 2, we can not finish the simulation
+2022-02-21 22:13:06,071 [simulator_env.py | 87] INFO: **************************************************
+2022-02-21 22:13:06,071 [simulator_env.py | 91] INFO: cur time: 2022-02-21 15:10:00, pre time: 2022-02-21 15:00:00
+2022-02-21 22:13:06,071 [simulator_env.py | 147] INFO: Start to update the input of 2022-02-21 15:10:00
+2022-02-21 22:13:06,080 [simulator_env.py | 175] INFO: Get 0 unallocated orders, 10 ongoing orders, 890 completed orders.
+2022-02-21 22:13:07,374 [simulator_env.py | 100] INFO: Finish the dispatch.
+2022-02-21 22:13:07,376 [simulator_env.py | 281] INFO: 2022-02-21 15:10:00, the status of all orders is greater than 1, we could finish the simulation
+2022-02-21 22:13:07,380 [simulator_env.py | 124] INFO: finished the left ongoing orders
+2022-02-21 22:13:07,381 [evaluator.py    | 116] INFO: Traveling Distance of driver D_1 is  59.980, visited node list: 21
+2022-02-21 22:13:07,382 [evaluator.py    | 116] INFO: Traveling Distance of driver D_2 is  59.220, visited node list: 25
+2022-02-21 22:13:07,383 [evaluator.py    | 116] INFO: Traveling Distance of driver D_3 is  113.590, visited node list: 41
+2022-02-21 22:13:07,385 [evaluator.py    | 116] INFO: Traveling Distance of driver D_4 is  108.450, visited node list: 38
+2022-02-21 22:13:07,387 [evaluator.py    | 116] INFO: Traveling Distance of driver D_5 is  114.370, visited node list: 41
+2022-02-21 22:13:07,388 [evaluator.py    | 116] INFO: Traveling Distance of driver D_6 is  127.740, visited node list: 39
+2022-02-21 22:13:07,390 [evaluator.py    | 116] INFO: Traveling Distance of driver D_7 is  118.000, visited node list: 41
+2022-02-21 22:13:07,391 [evaluator.py    | 116] INFO: Traveling Distance of driver D_8 is  115.220, visited node list: 42
+2022-02-21 22:13:07,394 [evaluator.py    | 116] INFO: Traveling Distance of driver D_9 is  117.030, visited node list: 41
+2022-02-21 22:13:07,396 [evaluator.py    | 116] INFO: Traveling Distance of driver D_10 is  116.680, visited node list: 34
+2022-02-21 22:13:07,398 [evaluator.py    | 116] INFO: Traveling Distance of driver D_11 is  121.030, visited node list: 43
+2022-02-21 22:13:07,399 [evaluator.py    | 116] INFO: Traveling Distance of driver D_12 is  126.950, visited node list: 39
+2022-02-21 22:13:07,400 [evaluator.py    | 116] INFO: Traveling Distance of driver D_13 is  116.150, visited node list: 41
+2022-02-21 22:13:07,402 [evaluator.py    | 116] INFO: Traveling Distance of driver D_14 is  126.390, visited node list: 36
+2022-02-21 22:13:07,403 [evaluator.py    | 116] INFO: Traveling Distance of driver D_15 is  108.010, visited node list: 38
+2022-02-21 22:13:07,404 [evaluator.py    | 116] INFO: Traveling Distance of driver D_16 is  113.840, visited node list: 45
+2022-02-21 22:13:07,405 [evaluator.py    | 116] INFO: Traveling Distance of driver D_17 is  119.530, visited node list: 42
+2022-02-21 22:13:07,406 [evaluator.py    | 116] INFO: Traveling Distance of driver D_18 is  105.700, visited node list: 37
+2022-02-21 22:13:07,407 [evaluator.py    | 116] INFO: Traveling Distance of driver D_19 is  115.410, visited node list: 44
+2022-02-21 22:13:07,409 [evaluator.py    | 116] INFO: Traveling Distance of driver D_20 is  103.480, visited node list: 37
+2022-02-21 22:13:07,410 [evaluator.py    | 116] INFO: Traveling Distance of driver D_21 is  106.900, visited node list: 39
+2022-02-21 22:13:07,411 [evaluator.py    | 116] INFO: Traveling Distance of driver D_22 is  106.330, visited node list: 35
+2022-02-21 22:13:07,412 [evaluator.py    | 116] INFO: Traveling Distance of driver D_23 is  107.860, visited node list: 39
+2022-02-21 22:13:07,413 [evaluator.py    | 116] INFO: Traveling Distance of driver D_24 is  92.440, visited node list: 36
+2022-02-21 22:13:07,414 [evaluator.py    | 116] INFO: Traveling Distance of driver D_25 is  110.230, visited node list: 34
+2022-02-21 22:13:07,415 [evaluator.py    | 116] INFO: Traveling Distance of driver D_26 is  100.350, visited node list: 37
+2022-02-21 22:13:07,416 [evaluator.py    | 116] INFO: Traveling Distance of driver D_27 is  91.120, visited node list: 32
+2022-02-21 22:13:07,417 [evaluator.py    | 116] INFO: Traveling Distance of driver D_28 is  68.960, visited node list: 23
+2022-02-21 22:13:07,418 [evaluator.py    | 116] INFO: Traveling Distance of driver D_29 is  86.570, visited node list: 29
+2022-02-21 22:13:07,419 [evaluator.py    | 116] INFO: Traveling Distance of driver D_30 is  87.380, visited node list: 32
+2022-02-21 22:13:07,420 [evaluator.py    | 116] INFO: Traveling Distance of driver D_31 is  74.690, visited node list: 25
+2022-02-21 22:13:07,421 [evaluator.py    | 116] INFO: Traveling Distance of driver D_32 is  75.920, visited node list: 27
+2022-02-21 22:13:07,422 [evaluator.py    | 116] INFO: Traveling Distance of driver D_33 is  62.450, visited node list: 21
+2022-02-21 22:13:07,423 [evaluator.py    | 116] INFO: Traveling Distance of driver D_34 is  73.570, visited node list: 27
+2022-02-21 22:13:07,424 [evaluator.py    | 116] INFO: Traveling Distance of driver D_35 is  67.730, visited node list: 24
+2022-02-21 22:13:07,425 [evaluator.py    | 116] INFO: Traveling Distance of driver D_36 is  58.810, visited node list: 19
+2022-02-21 22:13:07,426 [evaluator.py    | 116] INFO: Traveling Distance of driver D_37 is  55.890, visited node list: 19
+2022-02-21 22:13:07,427 [evaluator.py    | 116] INFO: Traveling Distance of driver D_38 is  47.340, visited node list: 20
+2022-02-21 22:13:07,428 [evaluator.py    | 116] INFO: Traveling Distance of driver D_39 is  51.550, visited node list: 15
+2022-02-21 22:13:07,429 [evaluator.py    | 116] INFO: Traveling Distance of driver D_40 is  71.320, visited node list: 26
+2022-02-21 22:13:07,430 [evaluator.py    | 116] INFO: Traveling Distance of driver D_41 is  56.590, visited node list: 25
+2022-02-21 22:13:07,431 [evaluator.py    | 116] INFO: Traveling Distance of driver D_42 is  60.950, visited node list: 26
+2022-02-21 22:13:07,431 [evaluator.py    | 116] INFO: Traveling Distance of driver D_43 is  50.310, visited node list: 18
+2022-02-21 22:13:07,432 [evaluator.py    | 116] INFO: Traveling Distance of driver D_44 is  49.890, visited node list: 20
+2022-02-21 22:13:07,433 [evaluator.py    | 116] INFO: Traveling Distance of driver D_45 is  54.170, visited node list: 17
+2022-02-21 22:13:07,434 [evaluator.py    | 116] INFO: Traveling Distance of driver D_46 is  43.080, visited node list: 19
+2022-02-21 22:13:07,435 [evaluator.py    | 116] INFO: Traveling Distance of driver D_47 is  55.970, visited node list: 20
+2022-02-21 22:13:07,435 [evaluator.py    | 116] INFO: Traveling Distance of driver D_48 is  45.740, visited node list: 19
+2022-02-21 22:13:07,436 [evaluator.py    | 116] INFO: Traveling Distance of driver D_49 is  43.810, visited node list: 15
+2022-02-21 22:13:07,437 [evaluator.py    | 116] INFO: Traveling Distance of driver D_50 is  42.930, visited node list: 17
+2022-02-21 22:13:07,438 [evaluator.py    | 116] INFO: Traveling Distance of driver D_51 is  52.170, visited node list: 21
+2022-02-21 22:13:07,439 [evaluator.py    | 116] INFO: Traveling Distance of driver D_52 is  55.260, visited node list: 19
+2022-02-21 22:13:07,439 [evaluator.py    | 116] INFO: Traveling Distance of driver D_53 is  59.640, visited node list: 20
+2022-02-21 22:13:07,440 [evaluator.py    | 116] INFO: Traveling Distance of driver D_54 is  37.970, visited node list: 15
+2022-02-21 22:13:07,441 [evaluator.py    | 116] INFO: Traveling Distance of driver D_55 is  36.900, visited node list: 17
+2022-02-21 22:13:07,442 [evaluator.py    | 116] INFO: Traveling Distance of driver D_56 is  41.660, visited node list: 14
+2022-02-21 22:13:07,443 [evaluator.py    | 116] INFO: Traveling Distance of driver D_57 is  31.240, visited node list: 11
+2022-02-21 22:13:07,444 [evaluator.py    | 116] INFO: Traveling Distance of driver D_58 is  33.450, visited node list: 13
+2022-02-21 22:13:07,444 [evaluator.py    | 116] INFO: Traveling Distance of driver D_59 is  38.080, visited node list: 12
+2022-02-21 22:13:07,445 [evaluator.py    | 116] INFO: Traveling Distance of driver D_60 is  34.890, visited node list: 11
+2022-02-21 22:13:07,446 [evaluator.py    | 116] INFO: Traveling Distance of driver D_61 is  27.640, visited node list: 12
+2022-02-21 22:13:07,446 [evaluator.py    | 116] INFO: Traveling Distance of driver D_62 is  34.750, visited node list: 11
+2022-02-21 22:13:07,447 [evaluator.py    | 116] INFO: Traveling Distance of driver D_63 is  27.540, visited node list: 11
+2022-02-21 22:13:07,448 [evaluator.py    | 116] INFO: Traveling Distance of driver D_64 is  17.120, visited node list: 6
+2022-02-21 22:13:07,449 [evaluator.py    | 116] INFO: Traveling Distance of driver D_65 is  32.420, visited node list: 11
+2022-02-21 22:13:07,450 [evaluator.py    | 116] INFO: Traveling Distance of driver D_66 is  42.120, visited node list: 16
+2022-02-21 22:13:07,450 [evaluator.py    | 116] INFO: Traveling Distance of driver D_67 is  27.220, visited node list: 11
+2022-02-21 22:13:07,451 [evaluator.py    | 116] INFO: Traveling Distance of driver D_68 is  21.500, visited node list: 7
+2022-02-21 22:13:07,452 [evaluator.py    | 116] INFO: Traveling Distance of driver D_69 is  21.250, visited node list: 10
+2022-02-21 22:13:07,453 [evaluator.py    | 116] INFO: Traveling Distance of driver D_70 is  29.160, visited node list: 10
+2022-02-21 22:13:07,453 [evaluator.py    | 116] INFO: Traveling Distance of driver D_71 is  15.770, visited node list: 5
+2022-02-21 22:13:07,454 [evaluator.py    | 116] INFO: Traveling Distance of driver D_72 is  27.600, visited node list: 11
+2022-02-21 22:13:07,454 [evaluator.py    | 116] INFO: Traveling Distance of driver D_73 is  23.760, visited node list: 9
+2022-02-21 22:13:07,455 [evaluator.py    | 116] INFO: Traveling Distance of driver D_74 is  8.090, visited node list: 4
+2022-02-21 22:13:07,456 [evaluator.py    | 116] INFO: Traveling Distance of driver D_75 is  18.920, visited node list: 7
+2022-02-21 22:13:07,456 [evaluator.py    | 116] INFO: Traveling Distance of driver D_76 is  12.890, visited node list: 5
+2022-02-21 22:13:07,458 [evaluator.py    | 116] INFO: Traveling Distance of driver D_77 is  12.400, visited node list: 4
+2022-02-21 22:13:07,459 [evaluator.py    | 116] INFO: Traveling Distance of driver D_78 is  20.960, visited node list: 9
+2022-02-21 22:13:07,459 [evaluator.py    | 116] INFO: Traveling Distance of driver D_79 is  8.910, visited node list: 3
+2022-02-21 22:13:07,460 [evaluator.py    | 116] INFO: Traveling Distance of driver D_80 is  7.520, visited node list: 3
+2022-02-21 22:13:07,460 [evaluator.py    | 116] INFO: Traveling Distance of driver D_81 is  14.200, visited node list: 6
+2022-02-21 22:13:07,460 [evaluator.py    | 116] INFO: Traveling Distance of driver D_82 is  3.360, visited node list: 3
+2022-02-21 22:13:07,462 [evaluator.py    | 116] INFO: Traveling Distance of driver D_83 is  0.000, visited node list: 1
+2022-02-21 22:13:07,462 [evaluator.py    | 116] INFO: Traveling Distance of driver D_84 is  4.820, visited node list: 3
+2022-02-21 22:13:07,463 [evaluator.py    | 116] INFO: Traveling Distance of driver D_85 is  7.310, visited node list: 4
+2022-02-21 22:13:07,463 [evaluator.py    | 18] INFO: Total distance:  5196.110
+2022-02-21 22:13:07,562 [evaluator.py    | 22] INFO: Sum over time:  0.000
+2022-02-21 22:13:07,562 [evaluator.py    | 26] INFO: Total score:  61.131
+2022-02-21 22:13:07,778 [main.py         | 43] INFO: Score of instance_24: 61.13070588235298

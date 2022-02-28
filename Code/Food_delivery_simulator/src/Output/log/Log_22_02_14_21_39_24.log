@@ -1,0 +1,11 @@
+2022-02-14 21:39:24,230 [main.py         | 40] INFO: Start to run instance_2
+2022-02-14 21:39:24,230 [main.py         | 47] ERROR: Failed to run simulator
+2022-02-14 21:39:24,231 [main.py         | 48] ERROR: Error: [Errno 2] No such file or directory: '/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/Benchmark/instance_2/Instance_small', Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    score = simulate(Configs.customer_info_file, Configs.restaurant_info_file, Configs.route_info_file, instance)
+  File "/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/src/simulator/simulator_api.py", line 86, in simulate
+    simulate_env = __initialize(customer_info_file, restaurant_info_file, route_info_file, instance)
+  File "/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/src/simulator/simulator_api.py", line 34, in __initialize
+    for file_name in os.listdir(small_instance_folder_path):
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/Benchmark/instance_2/Instance_small'
+

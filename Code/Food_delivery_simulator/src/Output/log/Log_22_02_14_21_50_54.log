@@ -1,0 +1,27 @@
+2022-02-14 21:50:54,882 [main.py         | 40] INFO: Start to run instance_2
+2022-02-14 21:50:54,882 [simulator_api.py | 44] INFO: Start time of the simulator: 2022-02-14 06:00:00, time interval:  600.00
+2022-02-14 21:50:55,039 [input_utils.py  | 36] INFO: Get 1158 locations
+2022-02-14 21:53:21,534 [input_utils.py  | 40] INFO: Get 1340964 routes
+2022-02-14 21:53:23,021 [input_utils.py  | 45] INFO: Get 60 drivers
+2022-02-14 21:53:23,044 [simulator_api.py | 60] ERROR: Failed to read initial data
+2022-02-14 21:53:23,054 [simulator_api.py | 61] ERROR: Error: time data '2021-10-10 09:00:04' does not match format '%H:%M:%S', Traceback (most recent call last):
+  File "/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/src/simulator/simulator_api.py", line 53, in __initialize
+    initial_time)
+  File "/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/src/utils/input_utils.py", line 48, in get_initial_data
+    id_to_order = get_order_info(data_file_path, initial_time)
+  File "/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/src/utils/input_utils.py", line 116, in get_order_info
+    ini_datetime.date(), datetime.datetime.strptime(row['creation_time'], '%H:%M:%S').time())
+  File "/Users/yangjingfeng/anaconda3/envs/d2l/lib/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/Users/yangjingfeng/anaconda3/envs/d2l/lib/python3.7/_strptime.py", line 359, in _strptime
+    (data_string, format))
+ValueError: time data '2021-10-10 09:00:04' does not match format '%H:%M:%S'
+
+2022-02-14 21:53:23,294 [main.py         | 47] ERROR: Failed to run simulator
+2022-02-14 21:53:23,296 [main.py         | 48] ERROR: Error: 'NoneType' object has no attribute 'total_score', Traceback (most recent call last):
+  File "main.py", line 43, in <module>
+    score = simulate(Configs.customer_info_file, Configs.restaurant_info_file, Configs.route_info_file, instance)
+  File "/Users/yangjingfeng/Library/CloudStorage/OneDrive-Personal/Public/PhD Study/Papers/Food_Delivery/Code/Food_delivery_simulator/src/simulator/simulator_api.py", line 88, in simulate
+    return simulate_env.total_score
+AttributeError: 'NoneType' object has no attribute 'total_score'
+
